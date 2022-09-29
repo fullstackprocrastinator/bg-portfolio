@@ -113,31 +113,27 @@ export default function Home() {
             </div>
             <div className="text-center shadow-lg p-10 rounded-xl my-10 dark:bg-white flex-1">
               <Image src={code} width={100} height={100} alt="design" />
-              <h3 className="text-lg font-medium py-8 pb-2">
-                Beautiful Designs
-              </h3>
+              <h3 className="text-lg font-medium py-8 pb-2">Web Development</h3>
               <p className="py-2">
-                Creating elegant, simple designs tailored to you and your
-                businesses core values.
+                Unique, functional pages that reflect your and your companies
+                values.
               </p>
               <h4 className="py-4 text-teal-600">Design Tools I Use</h4>
-              <p className="text-gray-800 py-1">Photoshop</p>
-              <p className="text-gray-800 py-1">Illustrator</p>
-              <p className="text-gray-800 py-1">XD</p>
+              <p className="text-gray-800 py-1">PHP</p>
+              <p className="text-gray-800 py-1">JavaScript</p>
+              <p className="text-gray-800 py-1">Laravel</p>
+              <p className="text-gray-800 py-1">Vue</p>
             </div>
             <div className="text-center shadow-lg p-10 rounded-xl my-10 dark:bg-white flex-1">
               <Image src={consulting} width={100} height={100} alt="design" />
               <h3 className="text-lg font-medium py-8 pb-2">
-                Beautiful Designs
+                WordPress Development
               </h3>
-              <p className="py-2">
-                Creating elegant, simple designs tailored to you and your
-                businesses core values.
-              </p>
-              <h4 className="py-4 text-teal-600">Design Tools I Use</h4>
-              <p className="text-gray-800 py-1">Photoshop</p>
-              <p className="text-gray-800 py-1">Illustrator</p>
-              <p className="text-gray-800 py-1">XD</p>
+              <p className="py-2">Simple, effective, fast.</p>
+              <h4 className="py-4 text-teal-600">WordPress Tools I Use</h4>
+              <p className="text-gray-800 py-1">PHP</p>
+              <p className="text-gray-800 py-1">jQuery</p>
+              <p className="text-gray-800 py-1">Elementor</p>
             </div>
           </div>
         </section>
