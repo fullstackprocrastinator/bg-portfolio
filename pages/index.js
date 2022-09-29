@@ -118,7 +118,7 @@ export default function Home() {
                 Unique, functional pages that reflect your and your companies
                 values.
               </p>
-              <h4 className="py-4 text-teal-600">Design Tools I Use</h4>
+              <h4 className="py-4 text-teal-600">Development Tools I Use</h4>
               <p className="text-gray-800 py-1">PHP</p>
               <p className="text-gray-800 py-1">JavaScript</p>
               <p className="text-gray-800 py-1">Laravel</p>
