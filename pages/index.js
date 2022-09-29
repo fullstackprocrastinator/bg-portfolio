@@ -115,7 +115,7 @@ export default function Home() {
               <Image src={code} width={100} height={100} alt="design" />
               <h3 className="text-lg font-medium py-8 pb-2">Web Development</h3>
               <p className="py-2">
-                Unique, functional pages that reflect your and your companies
+                Unique, functional pages that reflect you and your companies
                 values.
               </p>
               <h4 className="py-4 text-teal-600">Development Tools I Use</h4>
