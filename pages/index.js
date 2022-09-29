@@ -138,7 +138,7 @@ export default function Home() {
           </div>
         </section>
         <section>
-          <div className="text-center">
+          <div className="text-center my-10">
             <h3 className="text-3xl py-1 dark:text-white">Portfolio</h3>
             <p className="text-md py-2 leading-8 text-gray-800 max-w-4xl mx-auto dark:text-gray-200">
               Since the beginning of my self-taught journey as a freelance
