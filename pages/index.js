@@ -52,11 +52,11 @@ export default function Home() {
               Ben Goulding
             </h2>
             <h3 className="text-2xl py-2 md:text-3xl dark:text-white">
-              Data Analyst
+              Data Analyst & Developer
             </h3>
             <p className="text-md py-5 leading-8 text-gray-800 md:text-xl max-w-lg mx-auto dark:text-gray-200">
-              Freelancer providing services for your web development and design
-              needs. Visit my socials via the links below.
+              Data Analyst & Developer providing services for your data and web
+              development needs. Visit my socials via the links below.
             </p>
           </div>
           <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-400">
