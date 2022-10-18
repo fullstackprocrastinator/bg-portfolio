@@ -100,16 +100,15 @@ export default function Home() {
             <div className="text-center shadow-lg p-10 rounded-xl my-10 dark:bg-white flex-1">
               <Image src={design} width={100} height={100} alt="design" />
               <h3 className="text-lg font-medium py-8 pb-2">
-                Beautiful Designs
+                Data Analysis/Business Intelligence
               </h3>
               <p className="py-2">
-                Creating elegant, simple designs tailored to you and your
-                businesses core values.
+                Finding and implementing data driven solutions.
               </p>
-              <h4 className="py-4 text-teal-600">Design Tools I Use</h4>
-              <p className="text-gray-800 py-1">Photoshop</p>
-              <p className="text-gray-800 py-1">Illustrator</p>
-              <p className="text-gray-800 py-1">XD</p>
+              <h4 className="py-4 text-teal-600">Analysis Tools I Use</h4>
+              <p className="text-gray-800 py-1">Excel/SQL</p>
+              <p className="text-gray-800 py-1">Power BI</p>
+              <p className="text-gray-800 py-1">Python</p>
             </div>
             <div className="text-center shadow-lg p-10 rounded-xl my-10 dark:bg-white flex-1">
               <Image src={code} width={100} height={100} alt="design" />
