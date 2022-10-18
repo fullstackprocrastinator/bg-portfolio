@@ -52,7 +52,7 @@ export default function Home() {
               Ben Goulding
             </h2>
             <h3 className="text-2xl py-2 md:text-3xl dark:text-white">
-              Developer
+              Data Analyst
             </h3>
             <p className="text-md py-5 leading-8 text-gray-800 md:text-xl max-w-lg mx-auto dark:text-gray-200">
               Freelancer providing services for your web development and design
